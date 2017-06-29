@@ -1,0 +1,522 @@
+{
+  "settings": {
+    "name": "NewSite-06-29_1158",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "Sleek",
+      "title": "Sleek",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "html_before": "<!-- WhatsHelp.io widget -->\r\n<script type=\"text/javascript\">\r\n    (function () {\r\n        var options = {\r\n            whatsapp: \"+7 (917) 282-1899\", // WhatsApp number\r\n            telegram: \"Vmf116\", // Telegram bot username\r\n            vkontakte: \"dub_tesla\", // VKontakte page name\r\n            email: \"info2015kzn@gmail.com\", // Email\r\n            sms: \"+7-917-282-1899\", // Sms phone number\r\n            call: \"+7-917-282-1899\", // Call phone number\r\n            company_logo_url: \"//www.shareicon.net/download/2016/08/01/640408_music.svg\", // URL of company logo (png, jpg, gif)\r\n            greeting_message: \"Здравствуйте! Отправьте нам сообщение через любой из 7 мессенджеров.\", // Text of greeting message\r\n            call_to_action: \"Напишите нам через соц сети\", // Call to action\r\n            button_color: \"#129BF4\", // Color of button\r\n            position: \"right\", // Position may be 'right' or 'left'\r\n            order: \"whatsapp,telegram,vkontakte,sms,call,email\" // Order of buttons\r\n        };\r\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\r\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\r\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\r\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\r\n    })();\r\n</script>\r\n<!-- /WhatsHelp.io widget -->",
+    "headbody": "",
+    "botbody": "",
+    "seo-meta": "",
+    "globalfooter": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            "&.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Sleek",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a data-app-btn=\"true\" class=\"navbar-brand\" href=\"https://vk.com/content116\" data-app-selector=\".mbr-brand__name a\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">компания</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://vk.com/content116\">О КОМПАНИИ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://vk.com/content116\">УСЛУГИ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://vk.com/content116\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-secondary-outline\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1",
+          "_params": {
+            "icon1": "fa fa-paper-plane-o",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/7.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Ваш бизнес \\товар \\услуга",
+          "text": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "form": {
+            "action": "info2015kzn@gmail.com",
+            "alerts": {
+              "success": "ПЕРЕЗВОНИМ ЗА 1 МИН"
+            },
+            "fields": {
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "ТЕЛЕФОН"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn intro-newsletter-button newsletter-btn btn btn-info\"><i class=\"fa fa-paper-plane-o\"></i></a>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_styles": {
+            ".sub-form h5": {
+              "background": "#3498db"
+            }
+          },
+          "_anchor": "header8-2",
+          "_params": {
+            "lineColor": "#3498db",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "ЗАГОЛОВОК",
+          "text": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">PНОПКА&nbsp;</a><a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "form": {
+            "action": "info2015kzn@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling our form!"
+            },
+            "fields": {
+              "fname": {
+                "visible": true,
+                "title": "First Name",
+                "customTitle": "ТЕЛЕФОН"
+              },
+              "lname": {
+                "visible": true,
+                "title": "Last Name",
+                "customTitle": "ГОРОД"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "ИМЯ"
+              }
+            }
+          },
+          "formTitle1": "ФОРМА ЗАХВАТА",
+          "formTitle2": "",
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">Get the free Trial</a>"
+        },
+        {
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-left btn-info\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-3",
+          "_params": {
+            "showButtons": true,
+            "paddingTop": 1,
+            "paddingBottom": 0,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5.jpg",
+            "bgColor": "#3498DB",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true
+          },
+          "media2": {
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=shyzIvZYWkw",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "ЗАГОЛОВОК",
+          "text": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "img-responsive",
+              "src": "@PROJECT_PATH@/assets/images/4.png"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "slides": [
+              {
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1.png",
+                "showText": true,
+                "text": "ОПИСАНИЕ УСЛУГИ",
+                "showCite": true,
+                "cite": "- John Doe<span>ABC Company</span>"
+              },
+              {
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2.png",
+                "showText": true,
+                "text": "ОПИСАНИЕ УСЛУГИ",
+                "showCite": true,
+                "cite": "- Rebecca<span>XYZ Company</span>"
+              }
+            ],
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-4",
+          "articleLayout": false
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg"
+              }
+            ],
+            "bgColor": "#efefef",
+            "showTitle": true,
+            "showText": true
+          },
+          "_anchor": "gallery1-5",
+          "articleLayout": false,
+          "title": "ЗАГОЛОВОК",
+          "text": " ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-6",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#3498DB",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "img-responsive mbr-figure--full-width",
+              "src": "@PROJECT_PATH@/assets/images/41.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=fo1T_DkeSqY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "ЗАГОЛОВОК",
+          "text": "<p>ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК ПОДЗАГОЛОВОК </p>",
+          "items": "<li><i class=\"fa fa-check\"></i> ПУНКТ</li><li><i class=\"fa fa-check\"></i>ПУНКТ</li><li><i class=\"fa fa-check\"></i> ПУНКТ</li><li><i class=\"fa fa-check\"></i> ПУНКТ</li><li><i class=\"fa fa-check\"></i> ПУНКТ</li>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-left btn-white\" href=\" https://vk.com/content116\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            ".service-content span": {
+              "color": "#3498DB",
+              "border": "2px solid #3498DB"
+            },
+            ".service-content:hover span": {
+              "background-color": "#3498DB",
+              "border": "2px solid #3498DB",
+              "color": "white"
+            }
+          },
+          "_anchor": "content1-7",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/bg/2.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "columns": 3,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "iconsColor": "#3498DB",
+            "showIcons": true,
+            "icon1": "fa fa-hdd-o",
+            "icon2": "fa fa-diamond",
+            "icon3": "fa fa-envelope-o"
+          },
+          "title1": "ЗАГОЛОВОК",
+          "caption1": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ <i class=\"fa fa-angle-right\"></i></a>",
+          "title2": "ЗАГОЛОВОК",
+          "caption2": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ  <i class=\"fa fa-angle-right\"></i></a>",
+          "title3": "ЗАГОЛОВОК",
+          "caption3": "Описание достоинства приемущества офферы Описание достоинства приемущества офферы Описание достоинства приемущества офферы",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ ПОДРОБНЕЕ <i class=\"fa fa-angle-right\"></i></a>"
+        },
+        {
+          "cents1": "<span>77</span>",
+          "cents2": "<span>77</span>",
+          "cents3": "<span>77</span>",
+          "cents4": "<span>77</span>",
+          "period1": "per month",
+          "period2": "per month",
+          "period3": "per month",
+          "period4": "per month",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-8",
+          "_params": {
+            "lineColor": "#3498db",
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "bgColor": "#222222",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMainTitle": true,
+            "showText": false,
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "default",
+            "thirdType": "default",
+            "fourthType": "default"
+          },
+          "mainTitle": "ПРАЙСЫ",
+          "text": "Suspendisse egestas mattis rhoncus pellen tesque euismod erat at posuere molestie lorem lectus interdum augue",
+          "title1": "<strong>Basic</strong>",
+          "price1": "$9<span mbr-html=\"cents1\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "list1": "<ul class=\"list-group\"><li class=\"list-group-item\">5 Projects</li><li class=\"list-group-item\">5 GB of Storage</li><li class=\"list-group-item\">Up to 100 Users</li><li class=\"list-group-item\">10 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "button1": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">КУПИТЬ</a>",
+          "title2": "<strong>Standard</strong>",
+          "price2": "$19<span mbr-html=\"cents2\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "list2": "<ul class=\"list-group\"><li class=\"list-group-item\">10 Projects</li><li class=\"list-group-item\">10 GB of Storage</li><li class=\"list-group-item\">Up to 250 Users</li><li class=\"list-group-item\">25 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "button2": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">КУПИТЬ</a>",
+          "title3": "<strong>Premium<span class=\"label label-success\">Best Value!</span></strong>",
+          "price3": "$29<span mbr-html=\"cents3\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "list3": "<ul class=\"list-group\"><li class=\"list-group-item\">Unlimited</li><li class=\"list-group-item\">50 GB of Storage</li><li class=\"list-group-item\">Up to 1000 Users</li><li class=\"list-group-item\">100 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "button3": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">КУПИТЬ</a>",
+          "title4": "<strong>Ultimate</strong>",
+          "price4": "$49<span mbr-html=\"cents4\" data-app-edit=\"content\" data-app-placeholder=\"0\" class=\"price-cents\"></span>",
+          "list4": "<ul class=\"list-group\"><li class=\"list-group-item\">Unlimited</li><li class=\"list-group-item\">150 GB of Storage</li><li class=\"list-group-item\">Unlimited</li><li class=\"list-group-item\">500 GB Bandwidth</li><li class=\"list-group-item\">Security Suite</li><li class=\"list-group-item\"></li></ul>",
+          "button4": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">КУПИТЬ</a>"
+        },
+        {
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSocial": true,
+            "showButtons": true
+          },
+          "title": "КОНТАКТЫ",
+          "list": "<ul class=\"contact-info\"><li><i class=\"fa fa-phone\"></i>+7 917 282 18 99</li><li><i class=\"fa fa-envelope-o\"></i>info2015kzn@gmail.com</li><li><i class=\"fa fa-map-marker\"></i>#12, Some Street County 123456</li></ul>",
+          "button2": "<a href=\"#\" data-app-btn=\"true\" data-toolbar=\"-mbrBtnAdd,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"fa fa-facebook\"></i></a><a data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-twitter\"></i></a><a data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-google-plus\"></i></a><a data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-dribbble\"></i></a><a data-app-btn=\"true\" href=\"#\"><i class=\"fa fa-instagram\"></i></a>",
+          "title2": "ОБРАТНАЯ СВЯЗЬ",
+          "form": {
+            "action": "info2015kzn@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling our form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ИМЯ"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "ТЕЛЕФОН"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "ГОРОД"
+              }
+            }
+          },
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-right btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"http://\">ОТПРАВИТЬ</a>"
+        }
+      ]
+    }
+  }
+}
